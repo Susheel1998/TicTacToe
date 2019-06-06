@@ -5,7 +5,7 @@ import static org.junit.Assert.*;
 import org.junit.Test;
 /*
  * CHANGING OF TEST FILES MAY LEAD TO DISQUALIFICATION OF PROJECT
- * 
+ 
  */
 public class ValidationTest {
 	TicTacToe m;
